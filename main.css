@@ -4,7 +4,7 @@ body {
     background: #f2f6e9;
 }
 .navbar {
-    background:#6ab446;
+    background:#b86759;
 }
 .nav-link,
 .navbar-brand {
@@ -46,7 +46,7 @@ body {
 	text-align: center;
 }
 .description h1 {
-	color: #6ab446;
+	color: #a73204;
 }
 .description p {
 	color: #fff;
@@ -56,8 +56,8 @@ body {
 
 /*for vote button*/
 .description button {
-    border:1px solid #6ab446;
-    background:#6ab446;
+    border:1px solid #8f1150;
+    background:#0c08d8;
     border-radius: 0;
     color:#fff;
 }
