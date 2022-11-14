@@ -77,12 +77,17 @@ body {
 	color: #333;
 	font-size: 1.3rem;
 	font-weight: 700;
-	margin-bottom: 20px;
+	margin: auto;
 	text-transform: uppercase;
+    text-align: center;
 }
 .features img {
 	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
-	margin-bottom: 16px;
+	margin: auto;
+    width:  285px;
+    height: 175px;
+    justify-content: center;
+    display: flex;
 }
